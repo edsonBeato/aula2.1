@@ -3,6 +3,6 @@
 
 ##Testanto os comandos, clone, push, commit e pull
 
-'''php
+```php
 echo {$_SESSION}
-'''
+```
